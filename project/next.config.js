@@ -2,7 +2,7 @@
 const nextConfig = {
   output: "export",
   reactStrictMode: true,
-  trailingSlash: true, // Add this line here
+  trailingSlash: true, 
   images: {
     domains: [
       'i.imgflip.com',
@@ -10,6 +10,7 @@ const nextConfig = {
       'api.memegen.link',
       'images.unsplash.com'
     ],
+    unoptimized: true, 
   },
 }
 
