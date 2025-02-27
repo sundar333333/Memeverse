@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { motion } from 'framer-motion';
-import { FaEdit, FaHeart, FaUpload, FaSignOut } from 'react-icons/fa';
+import { FaEdit, FaHeart, FaUpload, FaSignOutAlt } from 'react-icons/fa';
 import { RootState } from '@/store';
 import { updateProfile } from '@/store/slices/userSlice';
 import MemeGrid from '@/components/ui/MemeGrid';
