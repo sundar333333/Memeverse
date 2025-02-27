@@ -48,6 +48,6 @@ npm run dev
 LinkedIn: [Sundar Ram](https://www.linkedin.com/in/sundar-ram-qt/)
 GitHub: [sundar333333](https://github.com/sundar333333)
 
----
-Let's revolutionize the meme world together 🚀🔥
+
+
 
