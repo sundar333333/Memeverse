@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: "export",
   reactStrictMode: true,
+  trailingSlash: true, // Add this line here
   images: {
     domains: [
       'i.imgflip.com',
