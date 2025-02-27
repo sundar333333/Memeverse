@@ -18,13 +18,18 @@ MemeVerse is an interactive meme-sharing platform where users can explore, uploa
 - Firebase Realtime Database Integration
 - Fully Responsive Design
 
-### Project Structure
-```bash
-├── components
-├── pages
-├── public
-├── styles
-└── utils
+### Folder Structure
+```
+Memeverse/
+├─ public/               # Static images, logos
+├─ src/                  # Source Code
+│  ├─ app/              # Pages
+│  ├─ components/       # Reusable Components
+│  └─ styles/           # Global Styles
+├─ .gitignore           # Ignored Files
+├─ package.json         # Dependencies
+├─ README.md           # Documentation
+└─ tailwind.config.js   # Tailwind Configuration
 ```
 
 ### Installation & Setup
@@ -40,9 +45,9 @@ npm run dev
 ```
 
 ### Connect with Me 🔥
-LinkedIn: [Sundar Ram](https://www.linkedin.com/in/sundar333333/)
+LinkedIn: [Sundar Ram](https://www.linkedin.com/in/sundar-ram-qt/)
 GitHub: [sundar333333](https://github.com/sundar333333)
 
 ---
-
+Let's revolutionize the meme world together 🚀🔥
 
