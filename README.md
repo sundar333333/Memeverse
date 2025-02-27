@@ -17,18 +17,18 @@ Follow these steps to set up the project locally:
 
 1. Clone the Repository
 
-git clone https://github.com/sundar333333/Memeverse.git
-cd MemeVerse
+ git clone https://github.com/sundar333333/Memeverse.git
+ cd Memeverse
 
 2. Install Dependencies
 
-npm install
+ npm install
 
 3. Start Development Server
 
-npm run dev
+ npm run dev
 
-Visit http://localhost:3000 to view the site.
+ Visit http://localhost:3000 to view the site.
 
 Folder Structure
 
