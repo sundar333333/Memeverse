@@ -17,30 +17,30 @@ Follow these steps to set up the project locally:
 
 1. Clone the Repository
 
- git clone https://github.com/sundar333333/Memeverse.git
- cd Memeverse
+  git clone https://github.com/sundar333333/Memeverse.git
+  cd Memeverse
 
 2. Install Dependencies
 
- npm install
+  npm install
 
 3. Start Development Server
 
- npm run dev
+  npm run dev
 
- Visit http://localhost:3000 to view the site.
+  Visit http://localhost:3000 to view the site.
 
 Folder Structure
 
 Memeverse/
-├─ public/                # Static images, logos
-├─ src/                   # Source Code
-│   ├─ app/               # Pages
-│   ├─ components/        # Reusable Components
-│   ├─ styles/            # Global Styles
-├─ .gitignore             # Ignored Files
-├─ package.json           # Dependencies
-├─ README.md              # Documentation
+├─ public/                 # Static images, logos
+├─ src/                    # Source Code
+│   ├─ app/                # Pages
+│   ├─ components/         # Reusable Components
+│   ├─ styles/             # Global Styles
+├─ .gitignore              # Ignored Files
+├─ package.json            # Dependencies
+├─ README.md               # Documentation
 └─ tailwind.config.js      # Tailwind Configuration
 
 🕹️Author
