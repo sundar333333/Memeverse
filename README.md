@@ -17,7 +17,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the Repository
 
-git clone https://github.com/username/MemeVerse.git
+git clone https://github.com/sundar333333/Memeverse.git
 cd MemeVerse
 
 2. Install Dependencies
