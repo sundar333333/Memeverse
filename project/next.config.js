@@ -2,15 +2,14 @@
 const nextConfig = {
   output: "export",
   reactStrictMode: true,
-  trailingSlash: true, 
   images: {
+    unoptimized: true,
     domains: [
       'i.imgflip.com',
       'i.ibb.co',
       'api.memegen.link',
       'images.unsplash.com'
     ],
-    unoptimized: true, 
   },
 }
 
