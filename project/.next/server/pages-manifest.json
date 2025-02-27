@@ -1,11 +1,1 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/profile": "pages/profile.js",
-  "/upload": "pages/upload.js",
-  "/explore": "pages/explore.js",
-  "/leaderboard": "pages/leaderboard.js",
-  "/meme/[id]": "pages/meme/[id].js"
-}
+{"/_app":"pages/_app.js","/_error":"pages/_error.js","/_document":"pages/_document.js","/explore":"pages/explore.html","/":"pages/index.html","/leaderboard":"pages/leaderboard.html","/meme/[id]":"pages/meme/[id].html","/profile":"pages/profile.html","/upload":"pages/upload.html","/404":"pages/404.html"}
